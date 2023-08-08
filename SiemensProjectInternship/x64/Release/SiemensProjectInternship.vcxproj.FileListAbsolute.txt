@@ -1,0 +1,6 @@
+C:\Users\horva\OneDrive\Desktop\SiemensLocal\C++\cdbth\SiemensProjectInternship\x64\Release\SiemensProjectInternship.exe
+C:\Users\horva\OneDrive\Desktop\SiemensLocal\C++\Project\SiemensProjectInternship\x64\Release\SiemensProjectInternship.exe
+D:\Facultate\Siemens\InternshipSiemens\SiemensProjectInternship\x64\Release\SiemensProjectInternship.exe
+C:\Users\horva\Desktop\InternshipSiemens\SiemensProjectInternship\x64\Release\SiemensProjectInternship.exe
+C:\Users\horva\Desktop\Internship\SiemensProjectInternship\x64\Release\SiemensProjectInternship.exe
+C:\Users\horva\OneDrive\Desktop\InternshipSiemens\SiemensProjectInternship\x64\Release\SiemensProjectInternship.exe
